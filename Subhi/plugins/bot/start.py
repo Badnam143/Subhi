@@ -26,19 +26,7 @@ from strings import get_string
 
 
 Subhi_PICS = [
-"https://telegra.ph/file/aa59ad0716b4c3b453485.jpg",
-"https://telegra.ph/file/763ec86089c7f825a4d3a.jpg",
-"https://telegra.ph/file/19fe7626ab7615c46d190.jpg",
-"https://telegra.ph/file/aa59ad0716b4c3b453485.jpg",
-"https://telegra.ph/file/763ec86089c7f825a4d3a.jpg",
-"https://telegra.ph/file/19fe7626ab7615c46d190.jpg",
-"https://telegra.ph/file/aa59ad0716b4c3b453485.jpg",
-"https://telegra.ph/file/763ec86089c7f825a4d3a.jpg",
-"https://telegra.ph/file/19fe7626ab7615c46d190.jpg",
-"https://telegra.ph/file/aa59ad0716b4c3b453485.jpg",
-"https://telegra.ph/file/763ec86089c7f825a4d3a.jpg",
-"https://telegra.ph/file/19fe7626ab7615c46d190.jpg"
-
+https://telegra.ph/file/7033e3d61fb48e6a07c76.jpg
 ]
 
 
