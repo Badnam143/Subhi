@@ -13,10 +13,10 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 
 # Get Your bot username
-BOT_USERNAME = getenv("BOT_USERNAME" , "MISS_SUBHIBOT")
+BOT_USERNAME = getenv("BOT_USERNAME" , "TCZ_MUSICBOT")
 
 #get Your Assistant User name
-ASSUSERNAME = getenv("ASSUSERNAME" , "MISS_SUBHIBOT")
+ASSUSERNAME = getenv("ASSUSERNAME" , "Tczassistant")
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
@@ -44,11 +44,11 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/SUBI_WORLD")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/TEAM_X_T")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/janta_garaze")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/thechatting_zone")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
-AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", True))
+AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", None))
 
 
 # Get this credentials from https://developer.spotify.com/dashboard
@@ -83,16 +83,16 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/aa59ad0716b4c3b453485.jpg"
+    "START_IMG_URL", "https://telegra.ph/file/b65d98854851f72ddac22.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/763ec86089c7f825a4d3a.jpg"
+    "PING_IMG_URL", "https://telegra.ph/file/b65d98854851f72ddac22.jpg"
 )
-PLAYLIST_IMG_URL = "https://telegra.ph/file/aa59ad0716b4c3b453485.jpg"
-STATS_IMG_URL = "https://telegra.ph/file/763ec86089c7f825a4d3a.jpg"
-TELEGRAM_AUDIO_URL = "https://telegra.ph/file/763ec86089c7f825a4d3a.jpg"
-TELEGRAM_VIDEO_URL = "https://telegra.ph/file/763ec86089c7f825a4d3a.jpg"
-STREAM_IMG_URL = "https://telegra.ph/file/19fe7626ab7615c46d190.jpg"
+PLAYLIST_IMG_URL = "https://telegra.ph/file/b65d98854851f72ddac22.jpg"
+STATS_IMG_URL = "https://telegra.ph/file/b65d98854851f72ddac22.jpg"
+TELEGRAM_AUDIO_URL = "https://telegra.ph/file/b65d98854851f72ddac22.jpg"
+TELEGRAM_VIDEO_URL = "https://telegra.ph/file/b65d98854851f72ddac22.jpg"
+STREAM_IMG_URL = "https://telegra.ph/file/b65d98854851f72ddac22.jpg"
 SOUNCLOUD_IMG_URL = "https://telegra.ph/file/aa59ad0716b4c3b453485.jpg"
 YOUTUBE_IMG_URL = "https://telegra.ph/file/763ec86089c7f825a4d3a.jpg"
 SPOTIFY_ARTIST_IMG_URL = "https://telegra.ph/file/aa59ad0716b4c3b453485.jpg"
